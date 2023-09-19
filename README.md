@@ -1,3 +1,4 @@
 # Demo-folder
 This is my first repository.
-author - Harshita Prachi
+<br>
+Author - Harshita Prachi
